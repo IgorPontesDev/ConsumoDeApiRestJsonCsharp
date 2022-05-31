@@ -1,0 +1,17 @@
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\ConsumoDeAPIExample.exe
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\ConsumoDeAPIExample.deps.json
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\ConsumoDeAPIExample.runtimeconfig.json
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\ConsumoDeAPIExample.dll
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\ConsumoDeAPIExample.pdb
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.csproj.AssemblyReference.cache
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.AssemblyInfoInputs.cache
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.AssemblyInfo.cs
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.csproj.CoreCompileInputs.cache
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.dll
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\refint\ConsumoDeAPIExample.dll
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.pdb
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.genruntimeconfig.cache
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ref\ConsumoDeAPIExample.dll
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iguin\source\repos\ConsumoDeAPIExample\obj\Debug\net6.0\ConsumoDeAPIExample.csproj.CopyComplete
